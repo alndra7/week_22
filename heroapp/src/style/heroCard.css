@@ -1,0 +1,15 @@
+.hero {
+    width: 30vw;
+    border: 1px solid black;
+    margin: 5vw 0 5vw 0;
+}
+
+img {
+    width: 95%;
+    margin-top: 2vw;
+}
+
+.info {
+    text-align: justify;
+    padding: 2vw;
+}
